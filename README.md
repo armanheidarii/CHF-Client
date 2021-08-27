@@ -8,11 +8,11 @@ this is an application for handeling resturants .
 
 ![image](https://user-images.githubusercontent.com/80320242/131162572-a877c1a4-7c3b-4d79-90cd-9282ed64438d.png)
 
-![Screenshot_1630079177](https://user-images.githubusercontent.com/80320242/131160789-fc8f986b-db50-48f9-b603-199d36af52b1.png)
+![image](https://user-images.githubusercontent.com/80320242/131162692-0dd8a505-f1a4-43d1-b84f-bc46633d6ac0.png)
 
-![Screenshot_1630073582](https://user-images.githubusercontent.com/80320242/131160819-e36d5918-7b91-41ac-874a-a6824592245f.png)
+![image](https://user-images.githubusercontent.com/80320242/131162752-a4963fc0-87c8-4a70-8672-23f34a97af8b.png)
 
-![Screenshot_1630073248](https://user-images.githubusercontent.com/80320242/131160832-ab1cef97-65dd-4fd2-8bc6-aeb63f5c094d.png)
+![image](https://user-images.githubusercontent.com/80320242/131162813-1266dd3d-e914-4268-b711-99297fd4bfe4.png)
 
-![Screenshot_1630077586](https://user-images.githubusercontent.com/80320242/131160838-5b0b13ac-855f-42ac-ab92-4e3aa9c62d72.png)
+![image](https://user-images.githubusercontent.com/80320242/131162884-5f902a07-9f52-4dec-b488-c4940312db62.png)
 
