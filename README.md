@@ -2,7 +2,7 @@
 
 A new Flutter application.
 
-this is an application for handeling resturants .
+this is an application for handeling clients .
 
 ## photos : 
 
