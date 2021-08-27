@@ -6,7 +6,7 @@ this is an application for handeling resturants .
 
 ## photos : 
 
-![Screenshot_1630072900](https://user-images.githubusercontent.com/80320242/131160766-ed723057-bdce-44fc-982b-eba8dd5377bc.png)
+![image](https://user-images.githubusercontent.com/80320242/131162231-0a4118cc-8916-4270-a525-a9d08525fed0.png)
 
 ![Screenshot_1630079177](https://user-images.githubusercontent.com/80320242/131160789-fc8f986b-db50-48f9-b603-199d36af52b1.png)
 
