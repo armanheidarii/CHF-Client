@@ -4,6 +4,8 @@ A new Flutter application.
 
 this is an application for handeling clients .
 
+here are some photos of this app .
+
 ## photos : 
 
 ![image](https://user-images.githubusercontent.com/80320242/131162572-a877c1a4-7c3b-4d79-90cd-9282ed64438d.png)
