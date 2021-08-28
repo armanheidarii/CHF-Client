@@ -18,9 +18,6 @@ class RestaurantAccounts {
     restaurantList[0].add(restaurantTile);
     print(restaurantList[0].length);
     print('bye');
-    //  calculate title
-    //  restaurantList[i].add(restaurantTile);
-    //  restaurantTile.j= (hame restaurant ha bar asas All sanjide mishavand)
   }
 
   static void zeroNumberOfFoods(int j) {
