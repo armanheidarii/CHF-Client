@@ -389,7 +389,6 @@ class _ClientOrderHistoryTileState extends State<ClientOrderHistoryTile> {
                     style: ElevatedButton.styleFrom(
                         primary: Theme.of(context).primaryColor),
                     onPressed: () {
-                      // delete gozashte shavad
                       ClientActiveOrderTileScreen.orderFoods =
                           widget._orderFoods;
                       ClientActiveOrderTileScreen.orderName = widget._orderName;
